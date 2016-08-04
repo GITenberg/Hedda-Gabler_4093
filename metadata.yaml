@@ -1,0 +1,45 @@
+_repo: Hedda-Gabler_4093
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Gosse, Edmund
+    aliases:
+    - Gosse, Edmund William, Sir
+    - Gosse, Edmund W. (Edmund William)
+    birthdate: 1849
+    deathdate: 1928
+    gutenberg_agent_id: '959'
+    url: http://www.gutenberg.org/2009/agents/959
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
+  - agent_name: Archer, William
+    birthdate: 1856
+    deathdate: 1924
+    gutenberg_agent_id: '3729'
+    url: http://www.gutenberg.org/2009/agents/3729
+    wikipedia: http://en.wikipedia.org/wiki/William_Archer_(critic)
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
+description: ''
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4093'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Social conditions -- Drama'
+- !lcsh 'Identity (Psychology) -- Drama'
+- !lcsh 'Norwegian drama -- Translations into English'
+- !lcc 'PT'
+- !lcsh 'Man-woman relationships -- Drama'
+- GITenberg
+title: Hedda Gabler
+url: http://www.gutenberg.org/ebooks/4093
